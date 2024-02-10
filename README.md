@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldweb" alt="aldweb" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Tasmota, web php, android B4A, and a lot of other topics...**
+- 🔭 I am currently working on **IoT Tasmota, web php, android B4A, and a lot of other topics...**
 
 - 💬 Ask me about **anything you want!**
 
