@@ -32,6 +32,8 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
 ![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC?style=flat&logo=tasmota&logoColor=white)
+![Basic](https://img.shields.io/badge/BASIC-FF6600?style=flat&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-E3165B?style=flat&logoColor=white)
 
 ---
 
