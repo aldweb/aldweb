@@ -38,10 +38,6 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldweb&show_icons=true&locale=en&theme=default&hide_border=true" alt="aldweb stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldweb&show_icons=true&locale=en&layout=compact&hide_border=true" alt="top languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=aldweb&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
