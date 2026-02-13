@@ -47,6 +47,12 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 
 I have a soft spot for **Sharp Pocket Computers from the 1980s** — the original pocket-sized programmable machines, long before "portable" became a thing.
 
+<p align="center">
+  <img src="https://www.aldweb.com/img/pctrs80.jpg" alt="Sharp Pocket Computer" width="400"/>
+  <br/>
+  <sub><i>My Sharp Pocket Computer from the 80s 🏝️</i></sub>
+</p>
+
 ---
 
 <p align="center">
