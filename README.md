@@ -12,6 +12,7 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 - ☢️ **[tasmota-ggreg20-v3-driver](https://github.com/aldweb/tasmota-ggreg20-v3-driver)** — Berry driver for the GGreg20 V3 Geiger counter with Tasmota
 - 🤖 **[ha-lg-hombot](https://github.com/aldweb/ha-lg-hombot)** — Home Assistant integration for LG Hombot/Roboking robot vacuums
 - 📡 **[ha-openwrt-mqtt](https://github.com/aldweb/ha-openwrt-mqtt)** — Monitor multiple OpenWRT routers from Home Assistant via MQTT
+- 🖥️ **[tasmota-mielhvac-display-driver](https://github.com/aldweb/tasmota-mielhvac-display-driver)** — Berry script display driver for MiElHVAC with Tasmota on ESP32/ESP8266
 
 ---
 
@@ -25,7 +26,6 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
@@ -48,7 +48,9 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 I have a soft spot for **Sharp Pocket Computers from the 1980s** — the original pocket-sized programmable machines, long before "portable" became a thing.
 
 <p align="center">
-  <img src="https://www.aldweb.com/img/pctrs80.jpg" alt="Sharp Pocket Computer" width="400"/>
+  <a href="https://www.aldweb.com/articles.php?lng=en&pg=26">
+    <img src="https://www.aldweb.com/img/pctrs80.jpg" alt="Sharp Pocket Computer" width="400"/>
+  </a>
   <br/>
   <sub><i>My Sharp Pocket Computer from the 80s 🏝️</i></sub>
 </p>
