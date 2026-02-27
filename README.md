@@ -9,10 +9,10 @@ I tinker with **home automation**, **IoT devices**, **embedded systems**, and **
 ## 🔨 What I'm working on
 
 - 🌡️ **[ha-tasmota-mielhvac](https://github.com/aldweb/ha-tasmota-mielhvac)** — Control Mitsubishi Electric heat pumps via Home Assistant + Tasmota on ESP32/ESP8266
-- ☢️ **[tasmota-ggreg20-v3-driver](https://github.com/aldweb/tasmota-ggreg20-v3-driver)** — Berry driver for the GGreg20 V3 Geiger counter with Tasmota
+- ☢️ **[tasmota-ggreg20-v3-driver](https://github.com/aldweb/tasmota-ggreg20-v3-driver)** — Berry driver for the GGreg20 V3 Geiger counter with Tasmota on ESP32
 - 🤖 **[ha-lg-hombot](https://github.com/aldweb/ha-lg-hombot)** — Home Assistant integration for LG Hombot/Roboking robot vacuums
 - 📡 **[ha-openwrt-mqtt](https://github.com/aldweb/ha-openwrt-mqtt)** — Monitor multiple OpenWRT routers from Home Assistant via MQTT
-- 🖥️ **[tasmota-mielhvac-display-driver](https://github.com/aldweb/tasmota-mielhvac-display-driver)** — Berry script display driver for MiElHVAC with Tasmota on ESP32/ESP8266
+- 🖥️ **[tasmota-mielhvac-display-driver](https://github.com/aldweb/tasmota-mielhvac-display-driver)** — Berry script display driver for MiElHVAC with Tasmota on ESP32
 
 ---
 
