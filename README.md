@@ -2,64 +2,76 @@
 
 > Geek developer since the 80s — I build things that connect the physical world to the digital one.
 
-I tinker with **home automation**, **IoT devices**, **embedded systems**, and **web apps**. When I'm not writing code, I'm probably restoring a vintage Sharp Pocket Computer. 🏝️
+I tinker with **home automation**, **IoT**, **embedded systems** and **web apps** — mostly open-source
+integrations for **Home Assistant**, installable from the Home Assistant **Marketplace** (formerly **HACS**) and **Tasmota**.
+
+🌐 [aldweb.com](https://www.aldweb.com) · 🇬🇧 English & 🇫🇷 Français
 
 ---
 
-## 🔨 What I'm working on
+## 🔨 Featured projects
 
-- 🌡️ **[ha-tasmota-mielhvac](https://github.com/aldweb/ha-tasmota-mielhvac)** — Control Mitsubishi Electric heat pumps via Home Assistant + Tasmota on ESP32/ESP8266
-- ☢️ **[tasmota-ggreg20-v3-driver](https://github.com/aldweb/tasmota-ggreg20-v3-driver)** — Berry driver for the GGreg20 V3 Geiger counter with Tasmota on ESP32
-- 🤖 **[ha-lg-hombot](https://github.com/aldweb/ha-lg-hombot)** — Home Assistant integration for LG Hombot/Roboking robot vacuums
-- 📡 **[ha-openwrt-mqtt](https://github.com/aldweb/ha-openwrt-mqtt)** — Monitor multiple OpenWRT routers from Home Assistant via MQTT
-- 🖥️ **[tasmota-mielhvac-display-driver](https://github.com/aldweb/tasmota-mielhvac-display-driver)** — Berry script display driver for MiElHVAC with Tasmota on ESP32
+| Project | What it does | |
+|---|---|---|
+| 🌡️ [ha-tasmota-mielhvac](https://github.com/aldweb/ha-tasmota-mielhvac) | Control Mitsubishi Electric heat pumps via Home Assistant + Tasmota (ESP32/ESP8266) | ![stars](https://img.shields.io/github/stars/aldweb/ha-tasmota-mielhvac?style=flat) |
+| 📡 [ha-openwrt-mqtt](https://github.com/aldweb/ha-openwrt-mqtt) | Monitor multiple OpenWrt routers from Home Assistant via MQTT | ![stars](https://img.shields.io/github/stars/aldweb/ha-openwrt-mqtt?style=flat) |
+| 🤖 [ha-lg-hombot](https://github.com/aldweb/ha-lg-hombot) | Home Assistant integration for LG Hombot/Roboking robot vacuums | ![stars](https://img.shields.io/github/stars/aldweb/ha-lg-hombot?style=flat) |
+| 💧 [ha-egl-water](https://github.com/aldweb/ha-egl-water) | Daily water consumption from Eau du Grand Lyon (Téléo meter) | ![stars](https://img.shields.io/github/stars/aldweb/ha-egl-water?style=flat) |
+| 📊 [ha-linear-gauge-card](https://github.com/aldweb/ha-linear-gauge-card) | Simple linear gauge card for Home Assistant | ![stars](https://img.shields.io/github/stars/aldweb/ha-linear-gauge-card?style=flat) |
+| ☢️ [tasmota-ggreg20-v3-driver](https://github.com/aldweb/tasmota-ggreg20-v3-driver) | Berry driver for the GGreg20 V3 Geiger counter on ESP32 + Tasmota | ![stars](https://img.shields.io/github/stars/aldweb/tasmota-ggreg20-v3-driver?style=flat) |
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Stack
 
+**Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Berry](https://img.shields.io/badge/Berry-8A2BE2?style=flat)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**Firmware & hardware** &nbsp;
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC?style=flat)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+
+**Smart home** &nbsp;
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+
+**Systems** &nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=white)
+
+**Data** &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
-![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC?style=flat&logo=tasmota&logoColor=white)
 
-![Basic](https://img.shields.io/badge/BASIC-FF6600?style=flat&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-E3165B?style=flat&logoColor=white)
+**Retro** &nbsp;
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-6E4C13?style=flat)
+![BASIC](https://img.shields.io/badge/BASIC-FF6600?style=flat)
+![Pascal](https://img.shields.io/badge/Pascal-E3165B?style=flat)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aldweb&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aldweb&hide_border=true&theme=dark">
+    <img src="https://streak-stats.demolab.com?user=aldweb&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
 ---
 
 ## ⚡ Fun fact
 
-I have a soft spot for **Sharp Pocket Computers from the 1980s** — the original pocket-sized programmable machines, long before "portable" became a thing.
+When I'm not coding, I restore **Sharp Pocket Computers from the 1980s** — pocket-sized programmable
+machines, long before "portable" became a thing. [Read the story](https://www.aldweb.com/articles.php?lng=en&pg=26).
 
 <p align="center">
-  <a href="https://www.aldweb.com/articles.php?lng=en&pg=26">
-    <img src="https://www.aldweb.com/img/pctrs80.jpg" alt="Sharp Pocket Computer" width="400"/>
-  </a>
-  <br/>
-  <sub><i>My Sharp Pocket Computer from the 80s 🏝️</i></sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aldweb&label=Profile+views&color=0e75b6&style=flat" alt="aldweb profile views" />
+  <img src="assets/sharp-pocket-computer.jpg" alt="Sharp Pocket Computer from the 80s" width="400"/>
 </p>
